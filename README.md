@@ -2,11 +2,11 @@
 
 - Part of the [Alx proDev: Backend Program](https://www.alxafrica.com/programme/prodev-backend/)
 
-**Project Overview**
+**1. Project Overview**
 
 The Airbnb Clone Project is a comprehensive, real-world application designed to simulate the development of a robust booking platform like Airbnb. It involves a deep dive into full-stack development, focusing on backend systems, database design, API development, and application security. 
 
-**Project Goals**
+**2. Project Goals**
 The aim is to develop complex architectures, workflows, and collaborative team dynamics while building a scalable web application. Specific objectives:
 
 - Master collaborative team workflows using GitHub.
@@ -16,7 +16,8 @@ The aim is to develop complex architectures, workflows, and collaborative team d
 - Strengthen their ability to document and plan complex software projects effectively.
 - Develop an understanding of integrating technologies like Django, MySQL, and GraphQL in a unified ecosystem.
 
-**Tech Stack**
+**3. Tech Stack**
+
 *Frontend:*
 - React.js
 - Next.js
@@ -52,3 +53,13 @@ The aim is to develop complex architectures, workflows, and collaborative team d
 
 *Documentation and Planning*
 - Markdown
+
+**Team Roles**
+- Product owner (PO): 
+- Project manager (PM)
+- UI/UX designer
+- Software architect
+- Software developer
+- Quality assurance (QA) engineer
+- Test automation engineer
+- DevOps engineer
