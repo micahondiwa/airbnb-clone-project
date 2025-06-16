@@ -16,7 +16,7 @@ The aim is to develop complex architectures, workflows, and collaborative team d
 - Strengthen their ability to document and plan complex software projects effectively.
 - Develop an understanding of integrating technologies like Django, MySQL, and GraphQL in a unified ecosystem.
 
-**3. Tech Stack**
+**3. Technology Stack**
 
 *Frontend:*
 - React.js
@@ -54,7 +54,7 @@ The aim is to develop complex architectures, workflows, and collaborative team d
 *Documentation and Planning*
 - Markdown
 
-**Team Roles**
+**4. Team Roles**
 - Product owner (PO): 
 - Project manager (PM)
 - UI/UX designer
@@ -63,3 +63,13 @@ The aim is to develop complex architectures, workflows, and collaborative team d
 - Quality assurance (QA) engineer
 - Test automation engineer
 - DevOps engineer
+
+**5. Database Design**
+
+**6. Feature Breakdown**
+
+**7. API Security**
+
+**8. CI/CD Pipeline**
+
+
