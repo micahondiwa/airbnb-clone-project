@@ -16,7 +16,9 @@ The Airbnb Clone Project is a comprehensive, real-world application designed to 
 - Data Optimization: Ensure efficient data retrieval and storage through database optimizations. 
 
 **3. Technology Stack**
-- Django: For 
+- Django: For building RESTful API.
+- Django REST Framework: Provides tools for creating and managing RESTful APIs.
+- PostgreSQL: Relational database for data storage.
 
 **4. Team Roles**
 
