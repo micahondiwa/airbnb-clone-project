@@ -54,14 +54,7 @@ The Airbnb Clone Project is a comprehensive, real-world application designed to 
 - Markdown
 
 **4. Team Roles**
-- Product owner (PO): 
-- Project manager (PM)
-- UI/UX designer
-- Software architect
-- Software developer
-- Quality assurance (QA) engineer
-- Test automation engineer
-- DevOps engineer
+-
 
 **5. Database Design**
 
@@ -78,6 +71,10 @@ The Airbnb Clone Project is a comprehensive, real-world application designed to 
 - Endpoints: /users/, /users/{user_id}
 - Features: Register new users, authenticate, and manage user profiles. 
 
-**10. Property Management
+**10. Property Management**
+- Endpoints: /properties/, /properties/{property_id}/
+- Features: Create, update, retrieve, and delete property listings. 
+
+**10
 
 
