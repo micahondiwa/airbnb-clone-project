@@ -81,3 +81,5 @@ The Airbnb Clone Project is a comprehensive, real-world application designed to 
     - GET /users/ - List all users
     - POST /users/ - Create a new user
     - GET /users/{user_id} - Retrieve a specific user
+    - PUT /users/{user_id} - Update a specific user.
+    
