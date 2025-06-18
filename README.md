@@ -55,7 +55,7 @@ The Airbnb Clone Project is a comprehensive, real-world application designed to 
 - Endpoints: /payments/
 - Features: Handle payment transactions related to bookings. 
 
-**12. Review System**
+**Review System**
 - Endpoints: /reviews/, /reviews/{review_id}
 - Features: Post and manage reviews for properties. 
 
