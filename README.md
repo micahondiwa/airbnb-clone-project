@@ -50,3 +50,6 @@ The Airbnb Clone Project is a comprehensive, real-world application designed to 
 - Endpoints: /reviews/, /reviews/{review_id}
 - Features: Post and manage reviews for properties. 
 
+**Database Optimization**
+- Indexing: Implement indexes for fast retrieval of frequently accessed data.
+- Caching: Use caching strategies to reduce ddatabase load and improve performance.
