@@ -64,9 +64,12 @@ The Airbnb Clone Project is a comprehensive, real-world application designed to 
 - Django REST Framework: provides a comprehensive RESTful API for handling CRUD operations on user and property data.
 - GraphQL: Offers a flexible and efficient query mechanism for interacting with the backend. 
 
-**8. CI/CD Pipeline**
+**7. CI/CD Pipeline**
 - Automated pipelines for testing and deploying code changes. 
 
-**Database Optimization**
+**8. Database Optimization**
 - Indexing: Implement indexes for fast retrieval of frequently accessed data.
 - Caching: Use caching strategies to reduce ddatabase load and improve performance.
+
+**API Documentation**
+
