@@ -74,4 +74,10 @@ The Airbnb Clone Project is a comprehensive, real-world application designed to 
 
 **8. CI/CD Pipeline**
 
+**9. User AUthentication**
+- Endpoints: /users/, /users/{user_id}
+- Features: Register new users, authenticate, and manage user profiles. 
+
+**10. Property Management
+
 
