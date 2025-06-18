@@ -12,7 +12,7 @@ The Airbnb Clone Project is a comprehensive, real-world application designed to 
 - **Property Management**:  Develop features for property listing creation, updates, and retrieval.
 - **Booking System**: Create a booking mechanism for users to reserve properties and manage booking details. 
 - **Payment Processing**: Integrate a payment system to handle transactions and record booking details. 
-- Review System: Allow Users to leave reviews and listings for properties. 
+- **Review System**: Allow Users to leave reviews and listings for properties. 
 - Data Optimization: Ensure efficient data retrieval and storage through database optimizations. 
 
 **3. Technology Stack**
