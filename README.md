@@ -27,7 +27,7 @@ The Airbnb Clone Project is a comprehensive, real-world application designed to 
 - **Backend Developer**: Implementing API endpoints, database schemas, and business logic.
 - **Database Administrator**: Manages database design, indexing, and optimizations.
 - **DevOps Engineer**: Deployment, monitoring, and scaling of backend services.
-- QA Engineer: Ensures the backend functionalities are thorougly tested and meet quality standards.
+- **QA Engineer**: Ensures the backend functionalities are thorougly tested and meet quality standards.
 
 **5. Database Design**
 
