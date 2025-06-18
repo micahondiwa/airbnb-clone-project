@@ -31,7 +31,7 @@ The Airbnb Clone Project is a comprehensive, real-world application designed to 
 
 **5. Database Design**
 
-- Users
+- Users - Managing user registration, authentication and profile.
 - properties
 - Bookings
 - Payments
