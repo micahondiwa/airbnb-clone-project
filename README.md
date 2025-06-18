@@ -47,11 +47,11 @@ The Airbnb Clone Project is a comprehensive, real-world application designed to 
 - Endpoints: /properties/, /properties/{property_id}/
 - Features: Create, update, retrieve, and delete property listings. 
 
-**10. Booking System**
+**Booking System**
 - Endpoints: /bookings/, /bookings/{booking_id}
 - Features: Make, update, and manage bookings, including check-in and check-out details. 
 
-**11. Payment Processing**
+**Payment Processing**
 - Endpoints: /payments/
 - Features: Handle payment transactions related to bookings. 
 
