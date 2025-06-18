@@ -16,6 +16,7 @@ The Airbnb Clone Project is a comprehensive, real-world application designed to 
 - Data Optimization: Ensure efficient data retrieval and storage through database optimizations. 
 
 **3. Technology Stack**
+- Django: For 
 
 **4. Team Roles**
 
