@@ -37,7 +37,7 @@ The Airbnb Clone Project is a comprehensive, real-world application designed to 
 - Payments
 - Reviews
 
-**6. Feature Breakdown**
+**6. Feature Breakdown:**
 
 **User AUthentication:**
 - Endpoints: /users/, /users/{user_id}
