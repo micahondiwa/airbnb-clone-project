@@ -17,44 +17,7 @@ The Airbnb Clone Project is a comprehensive, real-world application designed to 
 
 **3. Technology Stack**
 
-*Frontend:*
-- React.js
-- Next.js
-- Tailwind CSS 
-- TypeScript
-
-*Backend*
-- Django
-- Django REST Framework (DRF) 
-- GraphQL 
-
-*Database*
-- MySQL
-- Django ORM
-
-*Authentication and Security*
-- JWT or OAuth 2.0 
-- Django’s in-built auth
-- HTTPS/SSL, rate limiting, input validation, and CSRF/XSS protection
-
-*DevOps and Deployment*
-- Docker
-- Docker Compose
-- GitHub Actions/Travis
-- Nginx + Gunicorn
-- Postman: testing APIs
-
-* Hosting & Infrastructure*
-- DigitalOcean
-
-*Testing*
-- Pytest/Django’s test suite – For unit/integration tests
-
-*Documentation and Planning*
-- Markdown
-
 **4. Team Roles**
--
 
 **5. Database Design**
 
@@ -75,6 +38,11 @@ The Airbnb Clone Project is a comprehensive, real-world application designed to 
 - Endpoints: /properties/, /properties/{property_id}/
 - Features: Create, update, retrieve, and delete property listings. 
 
-**10
+**10. Booking System**
+- Endpoints: /bookings/, /bookings/{booking_id}
+- Features: Make, update, and manage bookings, including check-in and check-out details. 
+
+**11. Payment Processing**
+- Endpo
 
 
