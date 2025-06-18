@@ -92,3 +92,11 @@ The Airbnb Clone Project is a comprehensive, real-world application designed to 
     - DELELTE /properties/{property_id} - Delete a specific property
 
 - **Bookings**
+    - GET /bookings/ - List all bookings
+    - POST /bookings/ Create a new booking
+    - GET /bookings/{booking_id} - Retrieve a specific booking
+    - PUT /bookings/{booking_id} - Update a specific booking
+    - DELETE /bookings/{booking_id} - Delete a specific booking
+
+- **Payments**
+    - POST 
