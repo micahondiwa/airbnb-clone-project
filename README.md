@@ -59,8 +59,7 @@ The Airbnb Clone Project is a comprehensive, real-world application designed to 
 - Endpoints: /reviews/, /reviews/{review_id}
 - Features: Post and manage reviews for properties. 
 
-
-**7. API Security**
+**API Security**
 - OpenAPI Standard: The backend APIs are documented using the OpenAPI standard to secure clarity and ease of integration.
 - Django REST Framework: provides a comprehensive RESTful API for handling CRUD operations on user and property data.
 - GraphQL: Offers a flexible and efficient query mechanism for interacting with the backend. 
