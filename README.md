@@ -106,3 +106,7 @@ The Airbnb Clone Project is a comprehensive, real-world application designed to 
     - POST /reviews/ - Create a new review
     - GET /reviews/{review_id} - Retrieve a specific review
     - PUT /reviews/{review_id} - Update 
+
+**Authors**
+
+- Micah Ondiwa: [micahondiwa](https://github.com/micahondiwa)
