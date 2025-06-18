@@ -73,3 +73,10 @@ The Airbnb Clone Project is a comprehensive, real-world application designed to 
 
 **9. API Documentation**
 - REST API: [Detailed documentation](https://restfulapi.net/)
+- GraphQL API: For retrieving and manipulating data. 
+
+**REST API Endpoints Overview**
+
+- **Users**
+    - GET /users/ - List all users
+    - POST /users/ - Create a new user
