@@ -86,3 +86,9 @@ The Airbnb Clone Project is a comprehensive, real-world application designed to 
 
 - **Properties**
     - GET /properties/ - List all properties
+    - POST /properties/ - Create a new property
+    - GET /properties/{property_id} - Retrieve a specific property
+    - PUT /properties/{property_id} - Update a specific property
+    - DELELTE /properties/{property_id} - Delete a specific property
+
+- **Bookings**
