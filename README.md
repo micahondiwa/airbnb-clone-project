@@ -19,6 +19,9 @@ The Airbnb Clone Project is a comprehensive, real-world application designed to 
 - Django: For building RESTful API.
 - Django REST Framework: Provides tools for creating and managing RESTful APIs.
 - PostgreSQL: Relational database for data storage.
+- GraphQL: Handling asynchronous tasks such as sending notifications or processing payments. 
+- Redis: Caching and session management. 
+- Docker: Containerization tool for consistent development and deployment. 
 
 **4. Team Roles**
 
@@ -32,6 +35,7 @@ The Airbnb Clone Project is a comprehensive, real-world application designed to 
 - GraphQL: Offers a flexible and efficient query mechanism for interacting with the backend. 
 
 **8. CI/CD Pipeline**
+- Automated pipelines for testing and deploying code changes. 
 
 **9. User AUthentication**
 - Endpoints: /users/, /users/{user_id}
