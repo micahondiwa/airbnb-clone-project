@@ -72,4 +72,4 @@ The Airbnb Clone Project is a comprehensive, real-world application designed to 
 - Caching: Use caching strategies to reduce ddatabase load and improve performance.
 
 **9. API Documentation**
-- REST
+- REST API: [Detailed documentation](https://restfulapi.net/)
