@@ -102,11 +102,11 @@ The Airbnb Clone Project is a comprehensive, real-world application designed to 
     - POST /payments/ - Process a payment
 
 - **Reviews**
-    - GET /reviews/ - List all reviews
-    - POST /reviews/ - Create a new review
-    - GET /reviews/{review_id} - Retrieve a specific review
-    - PUT /reviews/{review_id} - Update a specific review
-    - DELETE /reviews/{review_id} - Delete a specific review
+    - GET /reviews/ - List all reviews.
+    - POST /reviews/ - Create a new review.
+    - GET /reviews/{review_id} - Retrieve a specific review.
+    - PUT /reviews/{review_id} - Update a specific review.
+    - DELETE /reviews/{review_id} - Delete a specific review.
 
 **Authors**
 
